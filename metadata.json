@@ -1,0 +1,8 @@
+{
+  "name": "AI Shorts Creator Pro",
+  "description": "Generate viral shorts with Gemini 3, 2.5 Flash Image, TTS, and Veo Video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
